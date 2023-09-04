@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Example vanilla resource pack",
-        "name": "Vanilla Resource Pack",
-        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+        "description": "To reveal the HIDDEN SECRETS of Minecraft §oMade by §9FondUnicycle, §cMrFearless, §8DrFearful, §6Madhatter, §gChewbacca, §bMetzboy, §fand §l§aN§bE§cO§dN §9Travler§r",
+        "name": "MrFearless's SECRET PACK V1.5",
+        "uuid": "df7628fa-210a-4b3e-b981-9e41b75d7a00",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 20, 10 ]
     },
     "modules": [
         {
-            "description": "Example vanilla resource pack",
+            "description": "The Fearless Pack",
             "type": "resources",
-            "uuid": "743f6949-53be-44b6-b326-398005028819",
-            "version": [0, 0, 1]
+            "uuid": "a945fca6-e397-48c5-b2ee-0b13d3c309a6",
+            "version": [1, 5, 0]
         }
     ]
 }
