@@ -1,3 +1,3 @@
-## Bedrock Add-On Sample Files
+## Fearless Secret Pack Files
 
-The following sample files provide the latest resource and behavior examples for creating Add-Ons for Minecraft: Bedrock Edition. The source of these files is available at https://github.com/mojang/bedrock-samples. For more information on how to create Add-Ons for Minecraft, please visit https://minecraft.net/creator and https://learn.microsoft.com/minecraft/creator.
+The following files provide the community of MrFearless a way to express itself through Minecraft: Bedrock Edition. The source of these files is available at https://github.com/TheRealMrFearless/Fearless-Pack and is based off the official Minecraft Bedrock sample files which can be found here: https://github.com/mojang/bedrock-samples. For more information on the MrFearless Community, please visit The Fearless Family Discord at https://discord.gg/Wa4kGyn. 
